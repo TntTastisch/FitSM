@@ -51,17 +51,7 @@
   - Bietet praktische Anleitungen zur Einführung von FitSM in einer Organisation.  
   - Enthält Schritt-für-Schritt-Anweisungen und Best Practices.  
 
-- **FitSM-7: Auditrichtlinien**  
-  - Beschreibt, wie Audits durchgeführt werden können, um die Konformität mit FitSM zu überprüfen.  
-  - Hilft bei der Vorbereitung auf Zertifizierungen oder interne Überprüfungen.  
-
-- **FitSM-8: Metriken und Berichte**  
-  - Definiert die Kennzahlen (Metriken), die zur Messung der ITSM-Performance verwendet werden können.  
-  - Beispiele: Incident-Auflösungszeit, Kundenzufriedenheit.  
-
-- **FitSM-9: Schulungsmaterialien**  
-  - Enthält Materialien für die Schulung und Zertifizierung von ITSM-Teams.  
-  - Unterstützt die Ausbildung auf den Stufen Foundation, Advanced und Expert.  
+ 
 
 ---
 
